@@ -1,0 +1,6 @@
+.venv/
+pycache/
+*.pyc
+.log
+.DS_Store
+04_SLA/appendices/.xlsx

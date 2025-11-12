@@ -1,0 +1,10 @@
+[[[[ilrequests
+beautifulsoup4
+lxml
+parsel
+pandas
+pydantic
+openpyxl
+pyyaml
+tqdm
+python-slugify
