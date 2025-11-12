@@ -1,0 +1,5 @@
+field_key,display_name,type,required,description
+account_name,Account Name,string,true,Наименование аккаунта
+industry,Industry,string,false,Отрасль
+region,Region,string,false,Регион/страна
+manager,Owner,string,false,Ответственный менеджер
